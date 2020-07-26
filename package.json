@@ -1,0 +1,28 @@
+{
+  "name": "ml-csv",
+  "version": "1.0.0",
+  "description": "A lightweight library to load CSV data in ML projects",
+  "main": "src/index.js",
+  "engines": {
+    "node": "8.0.0"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusrabelo/ml-csv.git"
+  },
+  "keywords": [
+    "CSV",
+    "ML",
+    "Tensorflow",
+    "DS"
+  ],
+  "author": "Matheus Freire Rabelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusrabelo/ml-csv/issues"
+  },
+  "homepage": "https://github.com/matheusrabelo/ml-csv#readme"
+}
